@@ -1,3 +1,13 @@
+Linux and Unix System Helper (LUSH)
+-----------------------------------
 
+LUSH takes care of updating your package manager repository, checking if updates are available and
+sending you a mail in case a system needs updating. You can also run rootkit detectors and get
+informed when something is not normal. LUSH also helps you to keep track of your updates by keeping
+a log of your updates and who did them.
 
-(C) 2011, Bjoern Rennhak
+License
+-------
+
+(C) 2011, Bjoern Rennhak, Triple licensed under BSD, MIT and GPLv2
+
