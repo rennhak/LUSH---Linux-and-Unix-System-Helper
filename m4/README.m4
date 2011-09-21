@@ -1,6 +1,5 @@
                  Linux and Unix System Helper (LUSH)
-                              Version 0.0.1
-
+                              Version esyscmd( `git describe --tags' )
 
 
 
@@ -13,23 +12,9 @@ WHAT IS THE LUSH PROJECT ?
 
 
 
+`FEATURES'
+define(FEATURES,esyscmd( `cat FEATURES.in | sed -e "s/#.*//" -e "/^$/d" -e "s/^\*\*/    o /" -e "s/^\*/\n  o /"' ))
 FEATURES
-
-
-  o  Application
-    o  Commandline arguments interface
-
-  o  Feature Providing Base Libraries
-
-  o  Supported
-    o  Gentoo
-
-  o  Development
-
-  o  Development Base Libraries
-
-  o  Code Quality
-
 
 ON WHAT HARDWARE DOES IT RUN?
 

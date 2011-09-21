@@ -1,0 +1,24 @@
+# File: Features.in
+#
+
+#####
+#
+# This file lists the features which are currently available in this package.
+#
+############
+
+
+* Application
+** Commandline arguments interface
+
+* Feature Providing Base Libraries
+
+* Supported
+** Gentoo
+
+* Development
+
+* Development Base Libraries
+
+* Code Quality
+
